@@ -27,7 +27,7 @@ Map3D is a high-performance, professional-grade 3D GIS simulation platform built
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/cartesiancs/map3d.git
+   git clone https://github.com/sutharprin098/map3d.git
    ```
 
 2. **Install dependencies**:
