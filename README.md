@@ -2,8 +2,6 @@
 
 Map3D is a high-performance, professional-grade 3D GIS simulation platform built with **React-Three-Fiber**. It transforms raw OpenStreetMap data into immersive, interactive 3D environments with autonomous navigation and precise geospatial export capabilities.
 
-![Demo Video](https://github.com/user-attachments/assets/1b61c2f8-dcf9-40bb-9804-59f6a74594dc)
-
 ## 🚀 Key Features
 
 - **⚡ Atomic "Big Bang" Rendering**: Synchronized loading pipeline that reveals the entire city (buildings, roads, water, parks) only once all assets are perfectly orchestrated.
