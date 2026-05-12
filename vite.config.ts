@@ -4,7 +4,7 @@ import dts from "vite-plugin-dts";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://map3d.princesite.in/',
+  base: './',
   plugins: [
     dts({
       insertTypesEntry: true,
